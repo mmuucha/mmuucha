@@ -1,6 +1,6 @@
 ### Hi there 👋
 About me!
-  I am a software engineer hoping to break into tech, working on consistently becoming a greater programmer 
+  I am a Machine Learning engineer hoping to break into tech, working on consistently becoming a greater programmer 
   then yesterday, open to different ideas, and livid for absorbable air. 
 
   I am currently a student at MC finishing up their AS degree in Computer Science, in which afterward I will be transferring to four year institute 
