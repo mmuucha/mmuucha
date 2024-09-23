@@ -3,11 +3,12 @@ About me!
   I am a Machine Learning engineer hoping to break into tech, working on consistently becoming a greater programmer 
   then yesterday, open to different ideas, and livid for absorbable air. 
 
-  I am currently a student at MC finishing up their AS degree in Computer Science, in which afterward I will be transferring to four year institute 
+  I am currently a student at The University of Maryland, College Park as a CS Student with a track in Machine Learning 
+  I have acquired my associate in Computer Science from Montgomery College 
   
 Reach me!
   Personal - matthewmucha.g@gmail.com
-  Work - matthewmuchadev@gmail.com
+ 
 
 
 <!--
